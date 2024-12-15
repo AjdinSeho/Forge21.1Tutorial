@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:sand"
+    },
+    "O": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "pattern": [
+    " G ",
+    " O "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:diego"
+  }
+}
