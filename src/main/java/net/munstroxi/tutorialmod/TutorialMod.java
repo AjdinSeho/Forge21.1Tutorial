@@ -65,11 +65,13 @@ public class TutorialMod
             event.accept(ModItems.ALEXANDRITE);
             event.accept(ModItems.RAW_ALEXANDRITE);
             event.accept(ModItems.DIEGO);
+            event.accept(ModItems.CHISEL);
         }
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
             event.accept(ModBlocks.ALEXANDRITE_BLOCK);
             event.accept(ModBlocks.RAW_ALEXANDRITE_BLOCK);
             event.accept(ModBlocks.EDL_BLOCK);
+            event.accept(ModBlocks.MAGIC_BLOCK);
         }
     }
     // You can use SubscribeEvent and let the Event Bus discover methods to call

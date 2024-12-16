@@ -2,7 +2,7 @@
   "item.tutorialmod.alexandrite": "Alexandrite Gem",
   "item.tutorialmod.raw_alexandrite": "Raw Alexandrite",
   "item.tutorialmod.diego":"Diego",
-
+  "item.tutorialmod.chisel": "Chisel",
   "block.tutorialmod.alexandrite_ore": "Alexandrite Ore",
   "block.tutorialmod.alexandrite_deepslate_ore": "Alexandrite Deepslate Ore",
 
@@ -15,6 +15,7 @@
 
   "creativetab.tutorialmod.alexandrite_items": "Alexandrite Items",
   "creativetab.tutorialmod.alexandrite_blocks": "Alexandrite Blocks"
+
 
 
 

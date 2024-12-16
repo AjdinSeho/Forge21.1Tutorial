@@ -13,6 +13,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.munstroxi.tutorialmod.TutorialMod;
 import net.munstroxi.tutorialmod.item.ModItems;
+import net.munstroxi.tutorialmod.item.custom.Custom.MagicBlock;
 
 import java.util.function.Supplier;
 
@@ -37,6 +38,8 @@ public class ModBlocks {
             () -> new DropExperienceBlock(UniformInt.of(3, 6), BlockBehaviour.Properties.of()
                     .strength(5f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
 
+    public static final RegistryObject<Block> MAGIC_BLOCK = registerBlock("magic_block",
+            () -> new MagicBlock(BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
 
 
 
