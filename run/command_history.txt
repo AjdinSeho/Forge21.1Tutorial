@@ -4,3 +4,14 @@
 /gamemode survival
 /gamemode creative
 /gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/time set day
+/gamemode creative
+/gamemode survival
+/effect give Munstroxi minecraft:hunger infinite
+/effect give @a minecraft:hunger infinite
+/give @a minecraft:milk_bucket
+/gamemode creative
