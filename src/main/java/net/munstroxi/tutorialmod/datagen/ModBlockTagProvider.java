@@ -32,8 +32,10 @@ public class ModBlockTagProvider extends BlockTagsProvider {
 
         tag(BlockTags.NEEDS_DIAMOND_TOOL)
                 .add(ModBlocks.RAW_ALEXANDRITE_BLOCK.get());
-
-
+                // allows to connect to fences walls and gates
+        tag(BlockTags.FENCES).add(ModBlocks.ALEXANDRITE_FENCE.get());
+        tag(BlockTags.FENCE_GATES).add(ModBlocks.ALEXANDRITE_FENCE_GATE.get());
+        tag(BlockTags.WALLS).add(ModBlocks.ALEXANDRITE_WALL.get());
 
 
     }

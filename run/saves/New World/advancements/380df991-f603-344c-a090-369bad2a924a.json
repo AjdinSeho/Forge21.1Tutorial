@@ -631,12 +631,6 @@
     },
     "done": true
   },
-  "tutorialmod:recipes/misc/alexandrite_block": {
-    "criteria": {
-      "has_alexandrite": "2024-12-19 10:40:54 -0500"
-    },
-    "done": true
-  },
   "tutorialmod:recipes/misc/alexandrite": {
     "criteria": {
       "has_alexandrite_block": "2024-12-19 10:40:44 -0500"
@@ -646,6 +640,60 @@
   "tutorialmod:recipes/misc/alexandrite_from_magic_block": {
     "criteria": {
       "has_alexandrite_block": "2024-12-19 10:40:44 -0500"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/alexandrite_block": {
+    "criteria": {
+      "has_alexandrite": "2024-12-19 10:40:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-19 13:30:02 -0500"
     },
     "done": true
   },
