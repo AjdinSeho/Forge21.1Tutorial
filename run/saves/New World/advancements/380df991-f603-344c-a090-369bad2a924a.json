@@ -517,27 +517,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2024-12-18 15:29:14 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-18 15:29:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2024-12-18 15:29:14 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2024-12-18 15:29:14 -0500"
     },
     "done": true
   },
@@ -547,21 +529,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2024-12-18 15:29:14 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-18 15:29:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2024-12-18 15:29:14 -0500"
     },
     "done": true
   },
@@ -577,15 +547,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-18 15:29:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-18 15:29:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-18 15:29:14 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "has_stick": "2024-12-18 15:29:01 -0500"
+      "has_diamond": "2024-12-18 15:29:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-18 15:29:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-18 15:29:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-18 15:29:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-18 15:29:14 -0500"
     },
     "done": true
   },
@@ -619,15 +625,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-18 15:29:04 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-18 15:29:14 -0500"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/alexandrite_block": {
+    "criteria": {
+      "has_alexandrite": "2024-12-19 10:40:54 -0500"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/alexandrite": {
+    "criteria": {
+      "has_alexandrite_block": "2024-12-19 10:40:44 -0500"
+    },
+    "done": true
+  },
+  "tutorialmod:recipes/misc/alexandrite_from_magic_block": {
+    "criteria": {
+      "has_alexandrite_block": "2024-12-19 10:40:44 -0500"
     },
     "done": true
   },
